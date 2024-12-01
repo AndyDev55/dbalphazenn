@@ -1,14 +1,8 @@
 {
   "keys": [
     {
-      "usn": [
-        "Andyy",
-        "adm"
-      ]
-      "key": [
-        "Andy1955",
-        "adm123"
-      ]
+      "usn": "Andyy"
+      "key": "Andy1955"
     }
   ]
 }
